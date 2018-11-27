@@ -37,8 +37,7 @@ Listado de Recetas
 	- Mousse de limón con merengue
 	- Tarta de manzana
   - Flan de huevo
-	- tarta de fresa
-	- postre1
+	- Tarta de fresa
 
 * [Verduras](Verduras/)
 	- Ratatouille
