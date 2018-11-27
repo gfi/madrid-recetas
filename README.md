@@ -9,12 +9,15 @@ Aquí hay recetas de
 	- Ensalada Caprese
 	- Ensalada de garbanzos y hortalizas
 
+* [Pescados](Pescados/)
+	- Bogavantes a la Americana
+	- Caldereta de Pescado
+
 * [Guisos](Guisos/)
 	- Recetas de Git
 	- Arroz Caldoso
 	- Gachas Manchegas
 	- Guiso
-	- Caldereta de Pescado
 	- Carrilleras al vino
 	- Cocido madrileño
 	- Estofado de Ternera
@@ -25,7 +28,7 @@ Aquí hay recetas de
 	- Patatas fritas horneadas
 	- guiso1
 	- Lentejas
-	- Bogavantes a la Americana
+
 
 * [Carne & aves](Carne & aves/)
 	- Pollo a la cerveza
