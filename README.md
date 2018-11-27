@@ -58,6 +58,10 @@ Aquí hay recetas de
 	- Espinacas
 	- Atun
 
+
+* Recetas tradicionales
+	- Fabada
+
 Para colaborar
 --------------
 
