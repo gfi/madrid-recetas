@@ -1,4 +1,4 @@
-﻿# learning-git
+﻿# learning-git 27/11/2018 12:51)
 Repositorio de recetas con fines didácticos
 
 Aquí hay recetas de
