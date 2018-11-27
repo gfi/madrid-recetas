@@ -17,7 +17,9 @@ Aquí hay recetas de
 	- Caldereta de Pescado
 	- Carrilleras al vino
 	- Cocido madrileño
+	- Otro Cocido madrileño (mejor que el otro)
 	- Estofado de Ternera
+	- Emapanada de bonito
 	- Pollo a la cerveza
 	- Pollo con pisto
 	- Pollo con verduras 
