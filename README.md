@@ -25,6 +25,7 @@ Aquí hay recetas de
 	- Patatas fritas horneadas
 	- guiso1
 	- Lentejas
+	- Bogavantes a la Americana
 
 * [Carne & aves](Carne & aves/)
 	- Pollo a la cerveza
