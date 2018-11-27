@@ -15,3 +15,4 @@ un chorrito de vino blanco
 1 cucharadita de azúcar
  pimentón al gusto
  harina
+fuego lento
