@@ -58,6 +58,12 @@ Aquí hay recetas de
 	- Espinacas
 	- Atun
 
+* [Entrantes](Entrantes/)
+	- Croquetas
+	- Adobo andaluz de pescado
+	- Aguacates al ajillo
+	- Aceitunas frias
+
 Para colaborar
 --------------
 
