@@ -25,7 +25,9 @@ Aquí hay recetas de
 	- Patatas fritas horneadas
 	- guiso1
 	- Lentejas
-
+	- Cocido 
+	- Fabada 
+	- Gurullos
 * [Carne & aves](Carne & aves/)
 	- Pollo a la cerveza
 	- Pollo con verdura
@@ -57,6 +59,8 @@ Aquí hay recetas de
 	- Tuning
 	- Espinacas
 	- Atun
+* [Bebida](Bebidas/)
+	-Cerveza artesana
 
 Para colaborar
 --------------
