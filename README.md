@@ -54,10 +54,10 @@ Listado de Recetas
 	- Atún
 
 * [Entrantes](Entrantes/)
-	- Croquetas
-	- Adobo andaluz de pescado
-	- Aguacates al ajillo
-	- Aceitunas frias
+	- Croquetas caseras
+	- Adobo estilo andaluz de pescado
+	- Aguacates cocinados al ajillo
+	- Aceitunas frías
 
 Para colaborar
 --------------
