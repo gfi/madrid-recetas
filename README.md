@@ -60,7 +60,6 @@ Aquí hay recetas de
 
 * [Entrantes](Entrantes/)
 	- Croquetas
-	- Adobo andaluz de pescado
 	- Aguacates al ajillo
 	- Aceitunas frias
 
