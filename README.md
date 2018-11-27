@@ -14,9 +14,9 @@ Listado de Recetas
 	- Arroz Caldoso
 	- Gachas Manchegas
 	- Caldereta de Pescado
-	- Carrilleras al vino
-	- Cocido madrileño
-	- Otro Cocido madrileño (mejor que el otro)
+	- Carrilleras al vino.
+	- Un Codido Madrileño que mola
+	- Cocido madrileño.
 	- Estofado de Ternera
 	- Emapanada de bonito
 	- Pollo a la cerveza
