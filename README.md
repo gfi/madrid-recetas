@@ -58,6 +58,12 @@ Aquí hay recetas de
 	- Espinacas
 	- Atun
 
+	
+* [Zumos](Zumos/)
+	- Zumo de piña
+	- Zumo de naranja
+
+	
 Para colaborar
 --------------
 
@@ -65,3 +71,5 @@ incluimos nuevas recetas
 
 Recuerda poner las recetas en la carpeta adecuada.
 Todas las recetas tienen foto!
+
+
