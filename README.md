@@ -89,15 +89,6 @@ Listado de Recetas
 
 Para colaborar
 --------------
-
-incluimos nuevas recetas
-	- Pollo con verdura
-	- Lentejas
-
-Recuerda poner las recetas en la carpeta adecuada.
-Todas las recetas tienen foto!
-
-
 * Incluimos nuevas recetas
 * Recuerda poner las recetas en la carpeta adecuada.
 * Actualiza el fichero README.md
