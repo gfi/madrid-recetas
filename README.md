@@ -2,7 +2,6 @@
 Repositorio de recetas de cocina con fines didácticos
 
 Listado de Recetas
-===================
 
 * [Carne & aves](Carne y aves/)
 	- Pollo a la cerveza
@@ -55,11 +54,27 @@ Listado de Recetas
 
 	- Lentejas estofadas
 
+	-guiso1
+	- Lentejas1
+	- Otro guiso
+	- Pollo con verdura
+	- Lentejas
+	- Lentejas estofadas
+
+* [Carne & aves](Carne y aves/)
+	- Pollo a la cerveza
+	- Morteruelo
+	- Pollo con verdura
+	- Pollo a la cerveza
+	- Pollo con pisto
+	- Pollo con verduras
+
 
 * [Postres](Postres/)
+	- Macedonias
 	- Macedonia de frutas
 	- Natillas
-	- Brownie
+	- Brownies
 	- Buñuelos de manzanas
 	- Higos con queso de cabra gratinados
 	- Mousse de limón con merengue
@@ -75,11 +90,15 @@ Listado de Recetas
 	- Chorizo
 	- Espinacas
 	- Atun
+
 * [Bebida](Bebidas/)
 	-Cerveza artesana
 
 
 
+	- Pollo con verdura
+	- Lentejas
+	- Atún
 	- Tortilla de Atún
 
 
@@ -87,6 +106,20 @@ Listado de Recetas
 	- Ratatouille
 	- Patatas Cocidas
 
+* [Española][Española/]
+1. Huevos rotos
+2. Bocata de clamares
+3. Torreznos
+4. Migas
+
+Para colaborar
+--------------
+
+incluimos nuevas recetas
+
+Recuerda poner las recetas en la carpeta adecuada.
+Todas las recetas tienen foto!
+	
 * [Zumos](Zumos/)
 	- Zumo de piña
 	- Zumo de naranja
