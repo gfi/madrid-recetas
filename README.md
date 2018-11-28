@@ -1,18 +1,18 @@
-﻿﻿# learning-git
+﻿learning-git
 Repositorio de recetas con fines didácticos
-=======
-﻿# Repositorio de Recetas de cocina
+
+Repositorio de Recetas de cocina
 Repositorio de recetas de cocina con fines didácticos
 
 Listado de Recetas
-===================
 
-* [Ensaladas](Ensaladas/)
+
+[Ensaladas](Ensaladas/)
 
 	- Ensalada Caprese
 	- Ensalada de garbanzos y hortalizas
 
-* [Guisos](Guisos/)
+[Guisos](Guisos/)
 	- Recetas de Git
 	- Arroz Caldoso
 	- Gachas Manchegas
@@ -24,14 +24,14 @@ Listado de Recetas
 	- Patatas fritas horneadas
 	- Lentejas
 
-* [Carne & aves](Carne y aves/)
+[Carne & aves](Carne y aves/)
 	- Pollo a la cerveza
 	- Pollo con verdura
 	- Pollo a la cerveza
 	- Pollo con pisto
 	- Pollo con verduras
 
-* [Postres](Postres/)
+[Postres](Postres/)
 	- Macedonia
 	- Natillas
 	- Brownie
@@ -42,11 +42,11 @@ Listado de Recetas
   - Flan de huevo
 	- Tarta de fresa
 
-* [Verduras](Verduras/)
+[Verduras](Verduras/)
 	- Ratatouille
 	- Patatas Cocidas
 
-* [Tortillas](Tortillas/)
+[Tortillas](Tortillas/)
 	- Patatas
 	- De Patatas Vegana
 	- Patatas cocidas
@@ -56,7 +56,7 @@ Listado de Recetas
 	- Espinacas
 	- Atún
 
-* [Entrantes](Entrantes/)
+[Entrantes](Entrantes/)
 	- Croquetas caseras
 	- Adobo estilo andaluz de pescado
 	- Aguacates cocinados al ajillo
@@ -65,7 +65,7 @@ Listado de Recetas
 Para colaborar
 --------------
 
-* Incluimos nuevas recetas
-* Recuerda poner las recetas en la carpeta adecuada.
-* Actualiza el fichero README.md
-* Todas las recetas deben tener foto!
+ Incluimos nuevas recetas
+ Recuerda poner las recetas en la carpeta adecuada.
+ Actualiza el fichero README.md
+ Todas las recetas deben tener foto!
