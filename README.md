@@ -3,6 +3,8 @@ Repositorio de recetas de cocina con fines didácticos
 
 Listado de Recetas
 
+
+
 * [Carne & aves](Carne y aves/)
 	- Pollo a la cerveza
 	- Pollo con verdura
@@ -93,18 +95,48 @@ Listado de Recetas
 	- Ratatouille
 	- Patatas Cocidas
 
+
+
+
+
+* Recetas tradicionales
+	- Fabada
+
+* [Guisos](Guisos/)
+	- Recetas de Git
+	- Arroz Caldoso
+	- Gachas Manchegas
+	- Guiso
+	- Caldereta de Pescado
+	- Carrilleras al vino
+	- Cocido madrileño
+	- Estofado de Ternera
+	- Pollo a la cerveza
+	- Pollo con pisto
+	- Pollo con verduras 
+	- Guiso de carne con patatas  
+	- Patatas fritas horneadas
+	- guiso1
+	- Lentejas
+
+
+
+	
+
+* [Zumos](Zumos/)
+	- Zumo de piña
+	- Zumo de naranja
+
 * [Española][Española/]
 1. Huevos rotos
 2. Bocata de clamares
 3. Torreznos
 4. Migas
 
-* [Zumos](Zumos/)
-- Zumo de piña
-- Zumo de naranja
+
 
 Para colaborar
---------------
+
 * Incluimos nuevas recetas
 * Recuerda poner las recetas en la carpeta adecuada.
 * Actualiza el fichero README.md
