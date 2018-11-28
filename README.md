@@ -43,7 +43,21 @@ Listado de Recetas
 	- Emapanada de bonito
 	- Guiso de carne con patatas  
 	- Patatas fritas horneadas
-	- guiso1
+	- Lentejas
+	- Cocido
+	- Fabada
+	- Gurullos
+
+* [Carne & aves](Carne y aves/)
+
+	- Pollo a la cerveza
+	- Pollo con verdura
+	- Pollo a la cerveza
+	- Pollo con pisto
+	- Pollo con verduras
+	- Lentejas estofadas
+	- Lentejas1
+>>>>>>> dbeb80e2d3af686b71910b6cd59bd1b5f3e7d0cf
 	- Otro guiso
 	- Pollo con verdura
 	- Lentejas
@@ -78,10 +92,9 @@ Listado de Recetas
 	- Chorizo
 	- Espinacas
 	- Atun
-	- Pollo con verdura
-	- Lentejas
-	- Atún
-	- Tortilla de Atún
+
+* [Bebida](Bebidas/)
+	-Cerveza artesana
 
 * [Verduras](Verduras/)
 	- Ratatouille
@@ -93,17 +106,9 @@ Listado de Recetas
 3. Torreznos
 4. Migas
 
-Para colaborar
---------------
-
-incluimos nuevas recetas
-
-Recuerda poner las recetas en la carpeta adecuada.
-Todas las recetas tienen foto!
-	
 * [Zumos](Zumos/)
-	- Zumo de piña
-	- Zumo de naranja
+- Zumo de piña
+- Zumo de naranja
 
 Para colaborar
 --------------
