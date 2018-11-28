@@ -42,7 +42,8 @@ Listado de Recetas
 	- Higos con queso de cabra gratinados
 	- Mousse de limón con merengue
 	- Tarta de manzana
-  - Flan de huevo
+	- Flan de huevo
+	- Tarta de fresa
 	- Tarta queso con fresas
 
 * [Tortillas](Tortillas/)
@@ -60,7 +61,6 @@ Listado de Recetas
 * [Zumos](Zumos/)
 	- Zumo de piña
 	- Zumo de naranja
-
 
 Para colaborar
 --------------
