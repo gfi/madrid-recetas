@@ -4,6 +4,7 @@ Repositorio de recetas de cocina con fines didácticos
 Listado de Recetas
 
 
+
 * [Carne & aves](Carne y aves/)
 	- Pollo a la cerveza
 	- Pollo con verdura
@@ -86,6 +87,7 @@ Listado de Recetas
 
 
 
+
 * Recetas tradicionales
 	- Fabada
 
@@ -114,20 +116,16 @@ Listado de Recetas
 	- Zumo de piña
 	- Zumo de naranja
 
+* [Española][Española/]
+1. Huevos rotos
+2. Bocata de clamares
+3. Torreznos
+4. Migas
 
 
 
 
 Para colaborar
-
-
-incluimos nuevas recetas
-	- Pollo con verdura
-	- Lentejas
-
-Recuerda poner las recetas en la carpeta adecuada.
-Todas las recetas tienen foto!
-
 
 * Incluimos nuevas recetas
 * Recuerda poner las recetas en la carpeta adecuada.
