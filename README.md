@@ -64,9 +64,14 @@ Listado de Recetas
 	- Patatas Cocidas
 
 
+	
+* [Zumos](Zumos/)
+	- Zumo de piña
+	- Zumo de naranja
+
+	
 Para colaborar
 --------------
-
 * Incluimos nuevas recetas
 * Recuerda poner las recetas en la carpeta adecuada.
 * Actualiza el fichero README.md
