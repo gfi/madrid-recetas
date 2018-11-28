@@ -9,22 +9,7 @@ Aquí hay recetas de
 	- Ensalada Caprese
 	- Ensalada de garbanzos y hortalizas
 
-* [Guisos](Guisos/)
-	- Recetas de Git
-	- Arroz Caldoso
-	- Gachas Manchegas
-	- Guiso
-	- Caldereta de Pescado
-	- Carrilleras al vino
-	- Cocido madrileño
-	- Estofado de Ternera
-	- Pollo a la cerveza
-	- Pollo con pisto
-	- Pollo con verduras 
-	- Guiso de carne con patatas  
-	- Patatas fritas horneadas
-	- guiso1
-	- Lentejas
+
 
 * [Carne & aves](Carne & aves/)
 	- Pollo a la cerveza
@@ -61,6 +46,24 @@ Aquí hay recetas de
 
 * Recetas tradicionales
 	- Fabada
+
+* [Guisos](Guisos/)
+	- Recetas de Git
+	- Arroz Caldoso
+	- Gachas Manchegas
+	- Guiso
+	- Caldereta de Pescado
+	- Carrilleras al vino
+	- Cocido madrileño
+	- Estofado de Ternera
+	- Pollo a la cerveza
+	- Pollo con pisto
+	- Pollo con verduras 
+	- Guiso de carne con patatas  
+	- Patatas fritas horneadas
+	- guiso1
+	- Lentejas
+
 
 Para colaborar
 --------------
