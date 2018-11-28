@@ -24,18 +24,19 @@ Aquí hay recetas de
 	- Guiso de carne con patatas  
 	- Patatas fritas horneadas
 	- guiso1
+	- Lentejas1
+	- Otro guiso
+	- Pollo con verdura
 	- Lentejas
 
 * [Carne & aves](Carne & aves/)
 	- Pollo a la cerveza
-	- Pollo con verdura
-	- Lentejas
 	- Morteruelo
 
 * [Postres](Postres/)
-	- Macedonia
+	- Macedonias
 	- Natillas
-	- Brownie
+	- Brownies
 	- Buñuelos de manzanas
 	- Higos con queso de cabra gratinados
 	- Mousse de limón con merengue
@@ -57,11 +58,17 @@ Aquí hay recetas de
 	- Tuning
 	- Espinacas
 	- Atun
+	- Pollo con verdura
+	- Lentejas
 
 Para colaborar
 --------------
 
 incluimos nuevas recetas
+	- Pollo con verdura
+	- Lentejas
 
 Recuerda poner las recetas en la carpeta adecuada.
 Todas las recetas tienen foto!
+
+
