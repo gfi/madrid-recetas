@@ -95,10 +95,6 @@ Listado de Recetas
 	- Ratatouille
 	- Patatas Cocidas
 
-
-
-
-
 * Recetas tradicionales
 	- Fabada
 
@@ -113,15 +109,10 @@ Listado de Recetas
 	- Estofado de Ternera
 	- Pollo a la cerveza
 	- Pollo con pisto
-	- Pollo con verduras 
+	- Pollo con verduras
 	- Guiso de carne con patatas  
 	- Patatas fritas horneadas
-	- guiso1
 	- Lentejas
-
-
-
-	
 
 * [Zumos](Zumos/)
 	- Zumo de piña
@@ -132,8 +123,6 @@ Listado de Recetas
 2. Bocata de clamares
 3. Torreznos
 4. Migas
-
-
 
 Para colaborar
 
