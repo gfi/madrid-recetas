@@ -15,6 +15,7 @@ Listado de Recetas
 * [Ensaladas](Ensaladas/)
 	- Ensalada Caprese
 	- Ensalada de garbanzos y hortalizas
+	- Emapanada de bonito
 
 * [Pescados](Pescados/)
 	- Bogavantes a la Americana
@@ -37,6 +38,10 @@ Listado de Recetas
 	- Un Codido Madrileño que mola
 	- Cocido madrileño.
 	- Estofado de Ternera
+	- Pollo a la cerveza
+	- Pollo con pisto
+	- Alubias de tolosa
+	- Pollo con verduras 
 	- Emapanada de bonito
 	- Guiso de carne con patatas  
 	- Patatas fritas horneadas
@@ -66,7 +71,7 @@ Listado de Recetas
 	- Pollo a la cerveza
 	- Pollo con pisto
 	- Pollo con verduras
-
+	
 * [Postres](Postres/)
 	- Macedonias
 	- Macedonia de frutas
