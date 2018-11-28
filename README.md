@@ -20,59 +20,57 @@ Listado de Recetas
 	- Caldereta de Pescado
 
 * [Entrantes](Entrantes/)
-	- Croquetas
+	- Croquetas caseras
 	- Adobo andaluz de pescado
 	- Aguacates al ajillo
 	- Aceitunas frias
 
 * [Guisos](Guisos/)
-	- Recetas de Git
 	- Arroz Caldoso
 	- Gachas Manchegas
 	- Guiso
 	- Carrilleras al vino
 	- Cocido madrileño
+	- Gachas estilo Manchego
 	- Carrilleras al vino.
 	- Un Codido Madrileño que mola
 	- Cocido madrileño.
 	- Estofado de Ternera
 	- Emapanada de bonito
-	- Pollo a la cerveza
-	- Pollo con pisto
-	- Pollo con verduras 
 	- Guiso de carne con patatas  
 	- Patatas fritas horneadas
-	- Lentejas
+	- Lentejas estofadas
 
 * [Postres](Postres/)
-	- Macedonia
+	- Macedonia de frutas
 	- Natillas
 	- Brownie
 	- Buñuelos de manzanas
 	- Higos con queso de cabra gratinados
 	- Mousse de limón con merengue
 	- Tarta de manzana
-  	- Flan de huevo
-	- Tarta de fresa
+  - Flan de huevo
+	- Tarta queso con fresas
 
 * [Tortillas](Tortillas/)
 	- Patatas
 	- De Patatas Vegana
-	- Patatas cocidas
 	- Francesa
 	- Chorizo
-	- Tuning
 	- Espinacas
-	- Atún
+	- Tortilla de Atún
 
 * [Verduras](Verduras/)
 	- Ratatouille
 	- Patatas Cocidas
 
+* [Zumos](Zumos/)
+	- Zumo de piña
+	- Zumo de naranja
+
 
 Para colaborar
 --------------
-
 * Incluimos nuevas recetas
 * Recuerda poner las recetas en la carpeta adecuada.
 * Actualiza el fichero README.md
