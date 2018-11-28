@@ -46,7 +46,7 @@ Listado de Recetas
 	- Higos con queso de cabra gratinados
 	- Mousse de limón con merengue
 	- Tarta de manzana
-  	- Flan de huevo
+	- Flan de huevo
 	- Tarta de fresa
 
 * [Tortillas](Tortillas/)
@@ -62,8 +62,6 @@ Listado de Recetas
 * [Verduras](Verduras/)
 	- Ratatouille
 	- Patatas Cocidas
-
->>>>>>> master
 
 Para colaborar
 --------------
