@@ -39,10 +39,9 @@ Listado de Recetas
 	- Guiso de carne con patatas  
 	- Patatas fritas horneadas
 	- Lentejas
-	- Cocido 
-	- Fabada 
+	- Cocido
+	- Fabada
 	- Gurullos
-
 
 * [Carne & aves](Carne y aves/)
 
@@ -51,10 +50,7 @@ Listado de Recetas
 	- Pollo a la cerveza
 	- Pollo con pisto
 	- Pollo con verduras
-
 	- Lentejas estofadas
-
-	-guiso1
 	- Lentejas1
 	- Otro guiso
 	- Pollo con verdura
@@ -68,7 +64,6 @@ Listado de Recetas
 	- Pollo a la cerveza
 	- Pollo con pisto
 	- Pollo con verduras
-
 
 * [Postres](Postres/)
 	- Macedonias
@@ -94,14 +89,6 @@ Listado de Recetas
 * [Bebida](Bebidas/)
 	-Cerveza artesana
 
-
-
-	- Pollo con verdura
-	- Lentejas
-	- Atún
-	- Tortilla de Atún
-
-
 * [Verduras](Verduras/)
 	- Ratatouille
 	- Patatas Cocidas
@@ -112,17 +99,9 @@ Listado de Recetas
 3. Torreznos
 4. Migas
 
-Para colaborar
---------------
-
-incluimos nuevas recetas
-
-Recuerda poner las recetas en la carpeta adecuada.
-Todas las recetas tienen foto!
-	
 * [Zumos](Zumos/)
-	- Zumo de piña
-	- Zumo de naranja
+- Zumo de piña
+- Zumo de naranja
 
 Para colaborar
 --------------
