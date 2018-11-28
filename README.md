@@ -12,7 +12,6 @@ Listado de Recetas
 	- Pollo con verduras
 
 * [Ensaladas](Ensaladas/)
-
 	- Ensalada Caprese
 	- Ensalada de garbanzos y hortalizas
 
