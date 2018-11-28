@@ -46,6 +46,9 @@ Listado de Recetas
 	- Guiso de carne con patatas  
 	- Patatas fritas horneadas
 	- Lentejas
+	- Patatas Asadas
+
+* [Carne & aves](Carne y aves/)
 	- Cocido
 	- Fabada
 	- Gurullos

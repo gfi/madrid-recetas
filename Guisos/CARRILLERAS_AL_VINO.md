@@ -2,6 +2,8 @@ RECETA CARRILLERA AL VINO TINTO
 -------------------------------
 Carrilleras
 vino tinto
+se pone en el fogon a feugo lento.
+
 Agua
 4 carrilleras de cerdo. 
 1 cebolla. 
