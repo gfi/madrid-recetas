@@ -15,6 +15,10 @@ Listado de Recetas
 	- Ensalada Caprese
 	- Ensalada de garbanzos y hortalizas
 
+* [Pescados](Pescados/)
+	- Bogavantes a la Americana
+	- Caldereta de Pescado
+
 * [Entrantes](Entrantes/)
 	- Croquetas caseras
 	- Adobo andaluz de pescado
@@ -23,8 +27,11 @@ Listado de Recetas
 
 * [Guisos](Guisos/)
 	- Arroz Caldoso
+	- Gachas Manchegas
+	- Guiso
+	- Carrilleras al vino
+	- Cocido madrileño
 	- Gachas estilo Manchego
-	- Caldereta de Pescado
 	- Carrilleras al vino.
 	- Un Codido Madrileño que mola
 	- Cocido madrileño.
