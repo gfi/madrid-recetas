@@ -1,7 +1,7 @@
-﻿# learning-git
-Repositorio de recetas con fines didácticos
+﻿# Repositorio de Recetas de cocina
+Repositorio de recetas de cocina con fines didácticos
 
-Aquí hay recetas de
+Listado de Recetas
 ===================
 
 * [Ensaladas](Ensaladas/)
@@ -21,20 +21,16 @@ Aquí hay recetas de
 	- Carrilleras al vino
 	- Cocido madrileño
 	- Estofado de Ternera
-	- Pollo a la cerveza
-	- Pollo con pisto
-	- Pollo con verduras 
 	- Guiso de carne con patatas  
 	- Patatas fritas horneadas
-	- guiso1
 	- Lentejas
 
-
-* [Carne & aves](Carne & aves/)
+* [Carne & aves](Carne y aves/)
 	- Pollo a la cerveza
 	- Pollo con verdura
-	- Lentejas
-	- Morteruelo
+	- Pollo a la cerveza
+	- Pollo con pisto
+	- Pollo con verduras
 
 * [Postres](Postres/)
 	- Macedonia
@@ -44,9 +40,8 @@ Aquí hay recetas de
 	- Higos con queso de cabra gratinados
 	- Mousse de limón con merengue
 	- Tarta de manzana
-  	- Flan de huevo
-	- tarta de fresa
-	- postre1
+  - Flan de huevo
+	- Tarta de fresa
 
 * [Verduras](Verduras/)
 	- Ratatouille
@@ -54,18 +49,24 @@ Aquí hay recetas de
 
 * [Tortillas](Tortillas/)
 	- Patatas
-	- De Patatas Vegana 
+	- De Patatas Vegana
 	- Patatas cocidas
 	- Francesa
 	- Chorizo
 	- Tuning
 	- Espinacas
-	- Atun
+	- Atún
+
+* [Entrantes](Entrantes/)
+	- Croquetas caseras
+	- Adobo estilo andaluz de pescado
+	- Aguacates cocinados al ajillo
+	- Aceitunas frías
 
 Para colaborar
 --------------
 
-incluimos nuevas recetas
-
-Recuerda poner las recetas en la carpeta adecuada.
-Todas las recetas tienen foto!
+* Incluimos nuevas recetas
+* Recuerda poner las recetas en la carpeta adecuada.
+* Actualiza el fichero README.md
+* Todas las recetas deben tener foto!
