@@ -1,33 +1,31 @@
-﻿# Repositorio de Recetas de cocina
+﻿Repositorio de Recetas de cocina
 Repositorio de recetas de cocina con fines didácticos
 
 Listado de Recetas
 
-
-
-* [Carne & aves](Carne y aves/)
+Carne & aves
 	- Pollo a la cerveza
 	- Pollo con verdura
 	- Pollo a la cerveza
 	- Pollo con pisto
 	- Pollo con verduras
 
-* [Ensaladas](Ensaladas/)
+Ensaladas
 	- Ensalada Caprese
 	- Ensalada de garbanzos y hortalizas
 	- Emapanada de bonito
 
-* [Pescados](Pescados/)
+Pescados
 	- Bogavantes a la Americana
 	- Caldereta de Pescado
 
-* [Entrantes](Entrantes/)
+Entrantes
 	- Croquetas caseras
 	- Adobo andaluz de pescado
 	- Aguacates al ajillo
 	- Aceitunas frias
 
-* [Guisos](Guisos/)
+Guisos
 	- Arroz Caldoso
 	- Gachas Manchegas
 	- Guiso
@@ -53,7 +51,7 @@ Listado de Recetas
 	- Fabada
 	- Gurullos
 
-* [Carne & aves](Carne y aves/)
+Carne & avesCarne y aves
 
 	- Pollo a la cerveza
 	- Pollo con verdura
@@ -67,7 +65,7 @@ Listado de Recetas
 	- Lentejas
 	- Lentejas estofadas
 
-* [Carne & aves](Carne y aves/)
+Carne & aves
 	- Pollo a la cerveza
 	- Morteruelo
 	- Pollo con verdura
@@ -75,7 +73,7 @@ Listado de Recetas
 	- Pollo con pisto
 	- Pollo con verduras
 	
-* [Postres](Postres/)
+Postres
 	- Macedonias
 	- Macedonia de frutas
 	- Natillas
@@ -88,7 +86,7 @@ Listado de Recetas
 	- Tarta de fresa
 	- Tarta queso con fresas
 
-* [Tortillas](Tortillas/)
+Tortillas
 	- Patatas
 	- De Patatas Vegana
 	- Francesa
@@ -96,17 +94,17 @@ Listado de Recetas
 	- Espinacas
 	- Atun
 
-* [Bebida](Bebidas/)
+Bebida
 	-Cerveza artesana
 
-* [Verduras](Verduras/)
+Verduras
 	- Ratatouille
 	- Patatas Cocidas
 
-* Recetas tradicionales
+Recetas tradicionales
 	- Fabada
 
-* [Guisos](Guisos/)
+Guisosuisos
 	- Recetas de Git
 	- Arroz Caldoso
 	- Gachas Manchegas
@@ -122,19 +120,20 @@ Listado de Recetas
 	- Patatas fritas horneadas
 	- Lentejas
 
-* [Zumos](Zumos/)
+ZumosZumos
 	- Zumo de piña
 	- Zumo de naranja
 
-* [Española][Española/]
-1. Huevos rotos
-2. Bocata de clamares
-3. Torreznos
-4. Migas
+Española Español
+Huevos rotos
+Bocata de clamares
+Torreznos
+Migas
 
 Para colaborar
 
-* Incluimos nuevas recetas
-* Recuerda poner las recetas en la carpeta adecuada.
-* Actualiza el fichero README.md
-* Todas las recetas deben tener foto!
+Incluimos nuevas recetas
+Recuerda poner las recetas en la carpeta adecuada.
+Actualiza el fichero README.md
+Todas las recetas deben tener foto
+Puedes poner tus propias recetas
