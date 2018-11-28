@@ -4,19 +4,36 @@ Repositorio de recetas de cocina con fines didácticos
 Listado de Recetas
 ===================
 
-* [Ensaladas](Ensaladas/)
+* [Carne & aves](Carne y aves/)
+	- Pollo a la cerveza
+	- Pollo con verdura
+	- Pollo a la cerveza
+	- Pollo con pisto
+	- Pollo con verduras
 
+* [Ensaladas](Ensaladas/)
 	- Ensalada Caprese
 	- Ensalada de garbanzos y hortalizas
+
+* [Entrantes](Entrantes/)
+	- Croquetas
+	- Adobo andaluz de pescado
+	- Aguacates al ajillo
+	- Aceitunas frias
 
 * [Guisos](Guisos/)
 	- Recetas de Git
 	- Arroz Caldoso
 	- Gachas Manchegas
 	- Caldereta de Pescado
-	- Carrilleras al vino
-	- Cocido madrileño
+	- Carrilleras al vino.
+	- Un Codido Madrileño que mola
+	- Cocido madrileño.
 	- Estofado de Ternera
+	- Emapanada de bonito
+	- Pollo a la cerveza
+	- Pollo con pisto
+	- Pollo con verduras 
 	- Guiso de carne con patatas  
 	- Patatas fritas horneadas
 	- guiso1
@@ -44,10 +61,6 @@ Listado de Recetas
   	- Flan de huevo
 	- Tarta de fresa
 
-* [Verduras](Verduras/)
-	- Ratatouille
-	- Patatas Cocidas
-
 * [Tortillas](Tortillas/)
 	- Patatas
 	- De Patatas Vegana
@@ -61,11 +74,10 @@ Listado de Recetas
 	- Lentejas
 	- Atún
 
-* [Entrantes](Entrantes/)
-	- Croquetas caseras
-	- Adobo estilo andaluz de pescado
-	- Aguacates cocinados al ajillo
-	- Aceitunas frías
+* [Verduras](Verduras/)
+	- Ratatouille
+	- Patatas Cocidas
+
 
 Para colaborar
 --------------
