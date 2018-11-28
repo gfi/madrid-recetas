@@ -67,8 +67,6 @@ Listado de Recetas
 	
 Para colaborar
 --------------
-
-=======
 * Incluimos nuevas recetas
 * Recuerda poner las recetas en la carpeta adecuada.
 * Actualiza el fichero README.md
