@@ -4,19 +4,39 @@ Repositorio de recetas de cocina con fines didácticos
 Listado de Recetas
 ===================
 
-* [Ensaladas](Ensaladas/)
+* [Carne & aves](Carne y aves/)
+	- Pollo a la cerveza
+	- Pollo con verdura
+	- Pollo a la cerveza
+	- Pollo con pisto
+	- Pollo con verduras
 
+* [Ensaladas](Ensaladas/)
 	- Ensalada Caprese
 	- Ensalada de garbanzos y hortalizas
 
+* [Pescados](Pescados/)
+	- Bogavantes a la Americana
+	- Caldereta de Pescado
+
+* [Entrantes](Entrantes/)
+	- Croquetas caseras
+	- Adobo andaluz de pescado
+	- Aguacates al ajillo
+	- Aceitunas frias
+
 * [Guisos](Guisos/)
-	- Recetas de Git
 	- Arroz Caldoso
 	- Gachas Manchegas
-	- Caldereta de Pescado
+	- Guiso
 	- Carrilleras al vino
 	- Cocido madrileño
+	- Gachas estilo Manchego
+	- Carrilleras al vino.
+	- Un Codido Madrileño que mola
+	- Cocido madrileño.
 	- Estofado de Ternera
+	- Emapanada de bonito
 	- Guiso de carne con patatas  
 	- Patatas fritas horneadas
 	- Lentejas
@@ -28,41 +48,38 @@ Listado de Recetas
 	- Pollo a la cerveza
 	- Pollo con pisto
 	- Pollo con verduras
+	- Lentejas estofadas
 
 * [Postres](Postres/)
-	- Macedonia
+	- Macedonia de frutas
 	- Natillas
 	- Brownie
 	- Buñuelos de manzanas
 	- Higos con queso de cabra gratinados
 	- Mousse de limón con merengue
 	- Tarta de manzana
-  - Flan de huevo
+	- Flan de huevo
 	- Tarta de fresa
+	- Tarta queso con fresas
+
+* [Tortillas](Tortillas/)
+	- Patatas
+	- De Patatas Vegana
+	- Francesa
+	- Chorizo
+	- Espinacas
+	- Tortilla de Atún
 
 * [Verduras](Verduras/)
 	- Ratatouille
 	- Patatas Cocidas
 
-* [Tortillas](Tortillas/)
-	- Patatas
-	- De Patatas Vegana
-	- Patatas cocidas
-	- Francesa
-	- Chorizo
-	- Tuning
-	- Espinacas
-	- Atún
-
-* [Entrantes](Entrantes/)
-	- Croquetas caseras
-	- Adobo estilo andaluz de pescado
-	- Aguacates cocinados al ajillo
-	- Aceitunas frías
+* [Zumos](Zumos/)
+	- Zumo de piña
+	- Zumo de naranja
 
 Para colaborar
 --------------
-
 * Incluimos nuevas recetas
 * Recuerda poner las recetas en la carpeta adecuada.
 * Actualiza el fichero README.md
