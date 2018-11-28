@@ -2,7 +2,6 @@
 Repositorio de recetas de cocina con fines didácticos
 
 Listado de Recetas
-===================
 
 * [Carne & aves](Carne y aves/)
 	- Pollo a la cerveza
@@ -16,17 +15,23 @@ Listado de Recetas
 	- Ensalada de garbanzos y hortalizas
 	- Emapanada de bonito
 
+* [Pescados](Pescados/)
+	- Bogavantes a la Americana
+	- Caldereta de Pescado
+
 * [Entrantes](Entrantes/)
-	- Croquetas
+	- Croquetas caseras
 	- Adobo andaluz de pescado
 	- Aguacates al ajillo
 	- Aceitunas frias
 
 * [Guisos](Guisos/)
-	- Recetas de Git
 	- Arroz Caldoso
 	- Gachas Manchegas
-	- Caldereta de Pescado
+	- Guiso
+	- Carrilleras al vino
+	- Cocido madrileño
+	- Gachas estilo Manchego
 	- Carrilleras al vino.
 	- Un Codido Madrileño que mola
 	- Cocido madrileño.
@@ -34,42 +39,74 @@ Listado de Recetas
 	- Pollo a la cerveza
 	- Pollo con pisto
 	- Alubias de tolosa
-
 	- Pollo con verduras 
+	- Emapanada de bonito
 	- Guiso de carne con patatas  
 	- Patatas fritas horneadas
 	- guiso1
-	- Lentejas 
+	- Otro guiso
+	- Pollo con verdura
+	- Lentejas
+	- Lentejas estofadas
+
+* [Carne & aves](Carne y aves/)
+	- Pollo a la cerveza
+	- Morteruelo
+	- Pollo con verdura
+	- Pollo a la cerveza
+	- Pollo con pisto
+	- Pollo con verduras
+>>>>>>> 0c7417fdb189c44d54f3deb860d1951f5d1ddc1e
 
 * [Postres](Postres/)
-	- Macedonia
+	- Macedonias
+	- Macedonia de frutas
 	- Natillas
-	- Brownie
+	- Brownies
 	- Buñuelos de manzanas
 	- Higos con queso de cabra gratinados
 	- Mousse de limón con merengue
 	- Tarta de manzana
-  	- Flan de huevo
+	- Flan de huevo
 	- Tarta de fresa
+	- Tarta queso con fresas
 
 * [Tortillas](Tortillas/)
 	- Patatas
 	- De Patatas Vegana
-	- Patatas cocidas
 	- Francesa
 	- Chorizo
-	- Tuning
 	- Espinacas
+	- Atun
+	- Pollo con verdura
+	- Lentejas
 	- Atún
+	- Tortilla de Atún
 
 * [Verduras](Verduras/)
 	- Ratatouille
 	- Patatas Cocidas
 
+* [Española][Española/]
+1. Huevos rotos
+2. Bocata de clamares
+3. Torreznos
+4. Migas
 
 Para colaborar
 --------------
 
+incluimos nuevas recetas
+
+Recuerda poner las recetas en la carpeta adecuada.
+Todas las recetas tienen foto!
+	
+* [Zumos](Zumos/)
+	- Zumo de piña
+	- Zumo de naranja
+
+Para colaborar
+--------------
 * Incluimos nuevas recetas
 * Recuerda poner las recetas en la carpeta adecuada.
 * Actualiza el fichero README.md
