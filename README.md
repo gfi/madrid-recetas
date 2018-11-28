@@ -57,7 +57,6 @@ Listado de Recetas
 	- Pollo con verduras
 	- Lentejas estofadas
 	- Lentejas1
->>>>>>> dbeb80e2d3af686b71910b6cd59bd1b5f3e7d0cf
 	- Otro guiso
 	- Pollo con verdura
 	- Lentejas
@@ -70,8 +69,7 @@ Listado de Recetas
 	- Pollo a la cerveza
 	- Pollo con pisto
 	- Pollo con verduras
->>>>>>> 0c7417fdb189c44d54f3deb860d1951f5d1ddc1e
-
+	
 * [Postres](Postres/)
 	- Macedonias
 	- Macedonia de frutas
