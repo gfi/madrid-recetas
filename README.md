@@ -39,14 +39,14 @@ Listado de Recetas
 	- Higos con queso de cabra gratinados
 	- Mousse de limón con merengue
 	- Tarta de manzana
-  - Flan de huevo
+Flan de huevo
 	- Tarta de fresa
 
-[Verduras](Verduras/)
+Verduras](Verduras
 	- Ratatouille
 	- Patatas Cocidas
 
-[Tortillas](Tortillas/)
+Tortillas](Tortillas
 	- Patatas
 	- De Patatas Vegana
 	- Patatas cocidas
@@ -56,14 +56,11 @@ Listado de Recetas
 	- Espinacas
 	- Atún
 
-[Entrantes](Entrantes/)
-	- Croquetas caseras
-	- Adobo estilo andaluz de pescado
-	- Aguacates cocinados al ajillo
-	- Aceitunas frías
-
-Para colaborar
- Incluimos nuevas recetas
- Recuerda poner las recetas en la carpeta adecuada.
- Actualiza el fichero README.md
- Todas las recetas deben tener foto!
+Entrantes](Entrantes/)
+Croquetas caseras
+Adobo estilo andaluz de pescado
+Aguacates cocinados al ajillo
+Aceitunas frías
+Recuerda poner las recetas en la carpeta adecuada.
+Actualiza el fichero README.md
+odas las recetas deben tener foto!
