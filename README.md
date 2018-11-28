@@ -3,29 +3,39 @@ Repositorio de recetas de cocina con fines didácticos
 
 Listado de Recetas
 
-* [Ensaladas](Ensaladas/)
-
-	- Ensalada Caprese
-	- Ensalada de garbanzos y hortalizas
-
-* [Guisos](Guisos/)
-	- Recetas de Git
-	- Arroz Caldoso
-	- Gachas Manchegas
-	- Caldereta de Pescado
-	- Carrilleras al vino
-	- Cocido madrileño
-	- Estofado de Ternera
-	- Guiso de carne con patatas  
-	- Patatas fritas horneadas
-	- Lentejas
-
 * [Carne & aves](Carne y aves/)
 	- Pollo a la cerveza
 	- Pollo con verdura
 	- Pollo a la cerveza
 	- Pollo con pisto
 	- Pollo con verduras
+
+* [Ensaladas](Ensaladas/)
+	- Ensalada Caprese
+	- Ensalada de garbanzos y hortalizas
+
+* [Entrantes](Entrantes/)
+	- Croquetas
+	- Adobo andaluz de pescado
+	- Aguacates al ajillo
+	- Aceitunas frias
+
+* [Guisos](Guisos/)
+	- Recetas de Git
+	- Arroz Caldoso
+	- Gachas Manchegas
+	- Caldereta de Pescado
+	- Carrilleras al vino.
+	- Un Codido Madrileño que mola
+	- Cocido madrileño.
+	- Estofado de Ternera
+	- Emapanada de bonito
+	- Pollo a la cerveza
+	- Pollo con pisto
+	- Pollo con verduras 
+	- Guiso de carne con patatas  
+	- Patatas fritas horneadas
+	- Lentejas
 
 * [Postres](Postres/)
 	- Macedonia
@@ -35,12 +45,8 @@ Listado de Recetas
 	- Higos con queso de cabra gratinados
 	- Mousse de limón con merengue
 	- Tarta de manzana
-  - Flan de huevo
+  	- Flan de huevo
 	- Tarta de fresa
-
-* [Verduras](Verduras/)
-	- Ratatouille
-	- Patatas Cocidas
 
 * [Tortillas](Tortillas/)
 	- Patatas
@@ -52,11 +58,9 @@ Listado de Recetas
 	- Espinacas
 	- Atún
 
-* [Entrantes](Entrantes/)
-	- Croquetas caseras
-	- Adobo estilo andaluz de pescado
-	- Aguacates cocinados al ajillo
-	- Aceitunas frías
+* [Verduras](Verduras/)
+	- Ratatouille
+	- Patatas Cocidas
 
 * [Española][Española/]
 1. Huevos rotos
@@ -71,7 +75,14 @@ incluimos nuevas recetas
 
 Recuerda poner las recetas en la carpeta adecuada.
 Todas las recetas tienen foto!
+	
+* [Zumos](Zumos/)
+	- Zumo de piña
+	- Zumo de naranja
 
+	
+Para colaborar
+--------------
 * Incluimos nuevas recetas
 * Recuerda poner las recetas en la carpeta adecuada.
 * Actualiza el fichero README.md
