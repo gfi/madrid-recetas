@@ -39,12 +39,26 @@ Listado de Recetas
 	- Emapanada de bonito
 	- Guiso de carne con patatas  
 	- Patatas fritas horneadas
+	- guiso1
+	- Lentejas1
+	- Otro guiso
+	- Pollo con verdura
+	- Lentejas
 	- Lentejas estofadas
 
+* [Carne & aves](Carne y aves/)
+	- Pollo a la cerveza
+	- Morteruelo
+	- Pollo con verdura
+	- Pollo a la cerveza
+	- Pollo con pisto
+	- Pollo con verduras
+
 * [Postres](Postres/)
+	- Macedonias
 	- Macedonia de frutas
 	- Natillas
-	- Brownie
+	- Brownies
 	- Buñuelos de manzanas
 	- Higos con queso de cabra gratinados
 	- Mousse de limón con merengue
@@ -59,6 +73,10 @@ Listado de Recetas
 	- Francesa
 	- Chorizo
 	- Espinacas
+	- Atun
+	- Pollo con verdura
+	- Lentejas
+	- Atún
 	- Tortilla de Atún
 
 * [Verduras](Verduras/)
@@ -71,6 +89,15 @@ Listado de Recetas
 
 Para colaborar
 --------------
+
+incluimos nuevas recetas
+	- Pollo con verdura
+	- Lentejas
+
+Recuerda poner las recetas en la carpeta adecuada.
+Todas las recetas tienen foto!
+
+
 * Incluimos nuevas recetas
 * Recuerda poner las recetas en la carpeta adecuada.
 * Actualiza el fichero README.md

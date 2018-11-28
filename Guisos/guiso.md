@@ -7,3 +7,4 @@ medio chorizo
 1 oreja cerdo
 costilla
 200 gramos de garbanzos
+1 morcilla de arroz
