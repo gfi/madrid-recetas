@@ -20,12 +20,13 @@ Aquí hay recetas de
 	- Estofado de Ternera
 	- Pollo a la cerveza
 	- Pollo con pisto
+	- Alubias de tolosa
 	- Pollo con verduras 
 	- Guiso de carne con patatas  
 	- Patatas fritas horneadas
 	- guiso1
-	- Lentejas
-	- Alubias de tolosa
+	- Lentejas 
+
 
 * [Carne & aves](Carne & aves/)
 	- Pollo a la cerveza
