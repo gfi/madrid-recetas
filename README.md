@@ -63,7 +63,6 @@ Listado de Recetas
 	- Aceitunas frías
 
 Para colaborar
---------------
 
  Incluimos nuevas recetas
  Recuerda poner las recetas en la carpeta adecuada.
